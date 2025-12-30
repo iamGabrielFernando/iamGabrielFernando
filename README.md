@@ -12,8 +12,6 @@
 Sou estudante de Engenharia de Produção com forte interesse em **análise de dados aplicada a processos, operações e negócios**.  
 Tenho experiência com **tratamento, análise e visualização de dados**, apoiando a tomada de decisão por meio de indicadores, dashboards e análises exploratórias.
 
-Atualmente, busco oportunidades para atuar como **Analista de Dados Júnior / BI / PCPM**, aplicando dados para gerar eficiência e melhoria contínua.
-
 ---
 
 ## 🧠 Habilidades Técnicas
