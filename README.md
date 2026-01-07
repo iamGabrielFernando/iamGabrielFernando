@@ -67,7 +67,5 @@ Principais analises: <br>
 - Estatística aplicada à análise de dados
 - Python para análise e automação
 - Storytelling com dados
-- Modelagem dimensional (Star Schema)
-
 
 ⭐ *Sinta-se à vontade para explorar meus repositórios e projetos.*
