@@ -56,7 +56,7 @@ Principais analises: <br>
 - Distribuição geográfica das vendas no Brasil.
 <br>
 <br>
-<a href="https://github.com/iamGabrielFernando/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+<a href="https://github.com/iamGabrielFernando/AdventureWorksPortifolio" target="_blank" rel="noopener noreferrer">Clique aqui</a> e acesse o repositório no Github.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzdkYjMxZTQtZWRkZC00ZDI1LTg0NmEtZWE2ZmU2ZWJhZmE0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida
 
