@@ -45,7 +45,7 @@ Tenho experiência com **tratamento, análise e visualização de dados**, apoia
 
 ## 📈 Projetos em Destaque
 
-### Análise de Clientes AdventureWorks
+### Análise de Clientes
 <img align="right" width="550" src="https://github.com/iamGabrielFernando/AdventureWorksPortifolio/blob/main/Imagem%20dashboards/sales%20overview.jpg?raw=true">
 Projeto desenvolvido para análise de desempenho comercial, com foco em receita, custos, margem, linhas de negócio e distribuição geográfica das vendas.
 Principais analises: <br>
@@ -59,6 +59,34 @@ Principais analises: <br>
 <a href="https://github.com/iamGabrielFernando/AdventureWorksPortifolio" target="_blank">Clique aqui</a> e acesse o repositório no Github.
 <br>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzdkYjMxZTQtZWRkZC00ZDI1LTg0NmEtZWE2ZmU2ZWJhZmE0IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida
+
+<br>
+<br>
+<br>
+<br>
+
+---
+
+### Análise de Vendas
+
+<img align="right" width="550" src="https://github.com/iamGabrielFernando/AnaliseDeVenda/blob/main/tela%201%20dashboard.jpg?raw=true">
+
+Projeto desenvolvido com base no banco de dados **AdventureWorks**, com foco na análise de desempenho comercial, explorando indicadores de receita, volume de vendas, canais de venda e distribuição geográfica.
+
+**Principais análises realizadas:**  
+- Receita total e evolução temporal das vendas  
+- Comparação de desempenho por canal (Internet x Reseller)  
+- Análise por produto e categoria  
+- Desempenho por região e território de vendas  
+- Identificação de padrões sazonais  
+
+🔗 **Repositório com documentação técnica (SQL + Power BI):**  
+👉 [Acessar repositório no GitHub](https://github.com/iamGabrielFernando/AnaliseDeVenda)
+
+📊 **Dashboard interativo publicado:**  
+👉 [Visualizar solução no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWNlYTFhYjQtZmZjOS00NjVlLWI3NjItN2IxMDFmNGRiOWM1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+<br clear="right"/>
 
 ---
 
