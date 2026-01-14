@@ -81,10 +81,10 @@ Projeto desenvolvido com base no banco de dados **AdventureWorks**, com foco na 
 - Identificação de padrões sazonais  
 
 🔗 **Repositório com documentação técnica (SQL + Power BI):**  
-👉 [Acessar repositório no GitHub](https://github.com/iamGabrielFernando/AnaliseDeVenda)
+ [Acessar repositório no GitHub](https://github.com/iamGabrielFernando/AnaliseDeVenda)
 
 📊 **Dashboard interativo publicado:**  
-👉 [Visualizar solução no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWNlYTFhYjQtZmZjOS00NjVlLWI3NjItN2IxMDFmNGRiOWM1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+ [Visualizar solução no Power BI](https://app.powerbi.com/view?r=eyJrIjoiMWNlYTFhYjQtZmZjOS00NjVlLWI3NjItN2IxMDFmNGRiOWM1IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 <br clear="right"/>
 
